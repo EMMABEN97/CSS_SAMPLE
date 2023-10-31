@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header1{
+    float: left; 
+    color: grey; 
+
+}
+.icon1{
+    margin-left: 1200px;
+}
+nav{
+    width: 90%;
+    padding: 10px;
+}
+
+#sec1{background-image: url(IMAGES/clipper.jpg);
+    height: 500px;
+    background-size: cover;
+    width: 100%; 
+    padding-top: 50px; 
+}
+.header2{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+.lorem{
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+.button1 button{
+    background: none;
+    padding: 10px 20px;
+    margin-left: 500px;
+    color: white;
+    border-color: white;
+    margin-top: 40px;
+}
+.free{
+    color: white;
+    margin-left: 550px;
+    margin-top: 30px;
+}
+.Super{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 50px;  
+}
+
+.image1{
+    float: left;
+    width: 25%;
+}
+.image2{
+    float: left;
+    width: 25%;
+}
+.image3{
+    float: left;
+    width: 25%;
+}
+.image5{
+    float: left;
+    width: 25%;
+}
+.image6{
+    float: left;
+    width: 25%;
+}
+.image7{
+    float: left;
+    width: 25%;
+}
+.free2{
+    margin-left: 550px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+span{
+    text-decoration: underline;
+}
+#part1{
+margin-left: 80px;
+padding: 10px;
+
+}
+#part2{
+    margin-left: 80px;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+i{
+    margin-top: 10px;
+}
+.award{
+    background-color: rgb(175, 202, 193);
+    height: 400px;
+    width: 100%;
+}
+.award h1{
+    padding-top: 50px;
+}
+.award img{
+    height: 200px;
+    margin: 30px;
+    background-color: white;
+    margin-left: 70px;
+    
+}
+.last-section{
+    background-image: url('newe.jpg');
+    height: 600px;
+    background-size: cover;
+    padding-top: 300px;
+    
+}
+.aqua{
+    background-color: rgb(175, 215, 215);
+    height: 170px;
+    width: 60%;
+    position: absolute;
+    left: 230px;
+}
+
+
+#white{
+    background-color: white;
+    height: 400px;
+    width: 600px;
+    position: relative;
+    left: 306px;
+    padding-top: 10px;
+}
+.doubleinput{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px;
+}
+h3{
+    margin-left: 315px;
+    
+}
+input{
+    padding: 10px 0px;
+    background-color: rgb(227, 221, 209);
+}
+.message input{
+    padding: 80px 0px;
+    margin-left: 10px;
+     background-color:rgb(227, 219, 205)
+}
+.one{
+    margin-left: 10px;
+}
+
+h4{
+    margin-left: 10px;
+}
+#SUB button{
+    padding: 10px 40px;
+    background-color: black;
+    width: 94%;
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.fre{
+    color: white;
+      margin-left: 550px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
